@@ -1,0 +1,27 @@
+Bootstrap 5 Containers
+
+Containers are used to pad the content inside of them, and there are two container classes available-
+
+(1) ".container" can provide the "fixed width container"
+(2) ".cotainer-fluid" can provide the "full width container" spanning the entire width of the viewport
+
+Fixed Container 
+Its width(max-width) will change on different sizes:
+
+- Extra Small (<576px): 100%
+- Small (>=576px):540px
+- Medium (>=768px): 720px
+- Large (>=992px): 960px
+- Extra Large (>=1200px): 1140px
+- XXL(>=1400px): 1320px
+
+Fluid Container
+That will always span the entire width of the screen (width is always 100%):
+
+
+Container Padding
+By default, containers have left and right padding, with no top or bottom padding. Therefore, we often use spacing utilities, such as extra padding and margins to make them look even better. For example, .pt-5 means "add a large top padding".
+
+
+Responsive Containers
+N.B: Responsive Containers img
