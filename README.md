@@ -17,16 +17,14 @@
 - Include Bootstarp 5 from CDN 
 - Download Bootstrap 5 from [getbootstrap.com](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 
 
-##### Bootstrap 5 CDN: 
+#### Bootstrap 5 CDN: 
 
 ```bash
-    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 ```
 
-###### To Get More about Bootstrap 5 
+#### To Get More about Bootstrap 5 
 
 Here is the links: 
 
