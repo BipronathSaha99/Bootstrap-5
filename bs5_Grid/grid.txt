@@ -1,0 +1,12 @@
+Bootstrap 5 Grid 
+
+Bootstrap's grid system is built with css flexbox and it allows up to 12 columns across the page.
+
+The grid classes are-
+
+.col- (extra small devices - screen width less than 576px)
+.col-sm- (small devices - screen width equal to or greater than 576px)
+.col-md- (medium devices - screen width equal to or greater than 768px)
+.col-lg- (large devices - screen width equal to or greater than 992px)
+.col-xl- (xlarge devices - screen width equal to or greater than 1200px)
+.col-xxl- (xxlarge devices - screen width equal to or greater than 1400px)
