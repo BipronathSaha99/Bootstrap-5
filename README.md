@@ -15,16 +15,20 @@
 
 #### Where to Get Bootstrap 5?
 - Include Bootstarp 5 from CDN 
-- Download Bootstrap 5 from [getbootstrap.com]('https://getbootstrap.com/docs/5.1/getting-started/introduction/') 
+- Download Bootstrap 5 from [getbootstrap.com](https://getbootstrap.com/docs/5.1/getting-started/introduction/) 
 
 ##### Bootstrap 5 CDN: 
 
 ```bash
-    <!-- Latest compiled and minified CSS -->
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- Latest compiled JavaScript -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 ```
 
+###### To Get More about Bootstrap 5 
 
+Here is the links: 
+
+- [w3schools.com](https://www.w3schools.com/bootstrap5/bootstrap_get_started.php)
+- [getbootstrap.com](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
