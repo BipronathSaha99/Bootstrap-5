@@ -1,0 +1,38 @@
+BS-5: Dropdown
+
+The ".dropdown class" indicates a dropdown menu.
+
+To open the dropdown menu, use a button or a link with a class of ".dropdown-toggle" and the data-bs-toggle="dropdown" attribute.
+
+Add the ".dropdown-menu" class to a <div> element to actually build the dropdown menu. Then add the 
+".dropdown-item" class to each element (links or buttons) inside the dropdown menu.
+
+Dropdown Divider:
+
+The ".dropdown-divider" class is used to add divider inside the dropdown menu.
+
+Dropdown Header
+
+The ".dropdown-header" class is used to add header inside the dropdown menu.
+
+Disable and Active items:
+
+Highlight a specific dropdown item with the .active class (adds a blue background color).
+To disable an item in the dropdown menu, use the .disabled class (gets a light-grey text color and a "no-parking-sign" icon on hover)
+
+Dropdown Position:
+
+By using ".dropend" or ".dropstart" classes to dropdown element we can create dropdown menu from start or end. 
+
+Dropdown Menu Right
+To right-align the dropdown menu, add the .dropdown-menu-end class to the element with .dropdown-menu:
+
+Dropup
+
+The ".droup class" indicates a dropup menu.
+
+Dropdown Text
+
+The .dropdown-item-text class is used to add plain text to a dropdown item, or used on links for default link styling.
+
+
